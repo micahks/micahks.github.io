@@ -8,4 +8,4 @@ share-img: /assets/img/Screen Shot 2020-09-24 at 3.43.58 PM.png
 tags: [data]
 ---
 
-See post [here](https://https://medium.com/@micahswain/who-owns-o%CA%BBahu-b8387a56968c). 
+See post [here](https://medium.com/@micahswain/who-owns-o%CA%BBahu-b8387a56968c?source=friends_link&sk=0963c64226e3138eb12d6c95eecbf001). 
